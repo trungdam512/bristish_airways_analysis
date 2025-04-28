@@ -175,3 +175,4 @@ cython_debug/
 configuration.env
 test_db.py
 .DS_Store
+.cursor
