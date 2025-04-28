@@ -1,0 +1,11 @@
+backports.tarfile==1.2.0
+importlib-metadata==8.0.0
+ipykernel==6.29.5
+jaraco.collections==5.1.0
+pip-chill==1.0.3
+plotly==6.0.1
+python-dotenv==1.1.0
+seaborn==0.13.2
+streamlit==1.44.1
+tomli==2.0.1
+snowflake-sqlalchemy==1.7.3
